@@ -1,3 +1,3 @@
 ## Coursera-WebDev
 
-On progress to week 3!
+In progress of working on week 3
