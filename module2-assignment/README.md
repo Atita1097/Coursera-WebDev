@@ -1,2 +1,2 @@
 ## Module-2 Assignment
-[Link to my site!](https://github.com/Atita1097/Coursera-WebDev.git)
+[Link to my site!](https://atita1097.github.io/Coursera-WebDev/module2-assignment/index.html)
