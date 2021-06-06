@@ -1,0 +1,65 @@
+body {
+  background-color: whitesmoke;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #ffcb69;
+  border-radius: 0;
+}
+
+.navbar-brand h3 { /* Food, LLC */
+  color: #557c3e;
+  margin-top: 2%;
+  margin-left: auto;
+  color: #463f3a;
+}
+
+#nav-list {
+  margin-top: 50px;
+}
+
+#nav-list a {
+  color: #463f3a;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  color: #463f3a;
+  background-color: rgba(245, 245, 245, 0.829);
+}
+
+h2 {
+  color: #463f3a;
+}
+
+.content {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: whitesmoke;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  color: #463f3a;
+  text-align: center;
+  position: relative;
+}
+
+#section1 {
+  background-color: #ffbf69;
+}
+
+#section2 {
+  background-color: #2ec4b6;
+}
+
+#section3 {
+  background-color: #99d98c;
+}
+
+#toggle-button {
+  border: none;
+}
+
