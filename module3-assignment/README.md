@@ -1,4 +1,4 @@
-## Module-2 Assignment
+## Module-3 Assignment
 [Link to my site!](https://atita1097.github.io/Coursera-WebDev/module3-assignment/index.html)
 
 Finally completed module 3!
